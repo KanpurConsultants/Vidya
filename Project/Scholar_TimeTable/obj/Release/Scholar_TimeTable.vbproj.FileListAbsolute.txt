@@ -1,0 +1,17 @@
+E:\Rati\Scholar\Release\Scholar_TimeTable.dll.config
+E:\Rati\Scholar\Release\Scholar_TimeTable.dll
+E:\Rati\Scholar\Release\Scholar_TimeTable.pdb
+E:\Rati\Scholar\Release\Scholar_TimeTable.xml
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.FrmEmployeeDayAttendance.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.FrmEnviro.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.FrmLeaveEntry.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.xFrmLeaveEntry.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.FrmReallocateTeacher.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.FrmTimeTable.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.Resources.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.dll
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.xml
+E:\Rati\Scholar\Project\Scholar_TimeTable\obj\Release\Scholar_TimeTable.pdb

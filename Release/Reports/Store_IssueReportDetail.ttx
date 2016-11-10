@@ -1,0 +1,46 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1 STISS 2012       1	
+V_Type	string	255	STISS	
+V_Prefix	string	255	2012	
+V_Date	date	04/Dec/2012 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+SubCode	string	255		
+FromProcess	string	255		
+ToProcess	string	255		
+FromGodown	string	255	A10001	
+ToGodown	string	255		
+TotalQty	number	23	
+TotalMeasure	number	529	
+Amount	number		
+Addition	number		
+Deduction	number		
+NetAmount	number		
+Remarks	string	255		
+SiteName	string	255	CHAURI BAZAR	
+Item_UID	string	255		
+Item	string	255	A10001	
+Godown	string	255	A10001	
+Unit	string	255	PCS	
+Qty_Iss	number	23	
+Qty_Rec	number		
+LineRemark	string	255		
+OrderByName	string	255		
+Status	string	255		
+IssueType	string	255		
+IssueNo	long		
+EntryBy	string	255	SUPER	
+EntryDate	date	26/Mar/2013 11:19:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+Qty	number	23	
+ItemDesc	string	255	Item 1	
+ItemGroup	string	255	Group 1	
+ReportType	string	255	Detail	
+FromGoodownDesc	string	255	Main Godown	
+ToGoodownDesc	string	255		

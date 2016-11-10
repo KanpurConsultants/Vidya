@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+ClassSectionDesc	string	255		
+SessionProgrammeDesc	string	255		
+SubSection	string	255		
+StudentName	string	255	ARPIT PATEL {259}	
+Site_Code	string	255	1	
+CurrentStatus	string	255	Regular	
+AdmissionId	string	255	1-265	
+EnrollmentNo	string	255		
+RollNo	string	255		
+StudentDispName	string	255	ARPIT PATEL	
+FatherName	string	255	OMPRAKASH PATEL	
+MotherName	string	255	XXX	
+CityName	string	255	BHADOHI	
+CurrentStreamYearSemester	string	255	SECOND-a	
+bGroupByVar	string	255		
+code	string	255	A100000010	
+ClassSectionAsignCode	string	255		
+ManualCode	string	255	259	
+OpenElectiveSectionDesc	string	255		
+OpenElectiveSubSection	string	255		

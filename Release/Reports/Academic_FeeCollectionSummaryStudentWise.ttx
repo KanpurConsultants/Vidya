@@ -1,0 +1,34 @@
+; Field definition file for table: ADORecordset
+Site_Code	string	255	1	
+Site_Name	string	255	A.P.S. Public School	
+AdmissionDocId	string	255	A1 ADMSN 2013       4	
+FeeCode	string	255		
+CurrentStreamYearSemesterCode	string	255	A100000013	
+SessionProgrammeStreamCode	string	255		
+TotalAdvanceAdjusted	number	0	
+AdvanceBroughtForward	number	0	
+RegAmtAdjustment	number	0	
+Header_Discount	number	0	
+TotalReceiveAmount	number	12605	
+AdvanceCarriedForward	number	0	
+CounselingFeeAdjusted	number	0	
+ScholarShipAdjusted	number	0	
+TotalFeeReceiveAdjusted	number	0	
+TotalRefundAmount	number	0	
+TotalExcessRefund	number	0	
+StreamYearSemesterDesc	string	255	FIFTH-A	
+Category	string	255	GEN	
+AdmissionID	string	255	1-5	
+StudenName	string	255	HARSIT SINGH {428}	
+StudentDisplayName	string	255	HARSIT SINGH	
+Stream	string	255		
+Programme	string	255		
+Session	string	255		
+FeeDue	number	15410	
+FeeDiscount	number	1505	
+FeeReceive	number	12605	
+NetFeeRefund	number	0	
+FeeBalance	number	1300	
+FeeDispName	string	255		
+FeeName	string	255		
+FeeShortName	string	255		

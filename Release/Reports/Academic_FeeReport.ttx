@@ -1,0 +1,78 @@
+; Field definition file for table: ADORecordset
+AdmissionId	string	255	1-5	
+StudentName	string	255	HARSIT SINGH {428}	
+Site_Code	string	255	1	
+AdmissionDocId	string	255	A1 ADMSN 2013       4	
+OpeningDr	number	450	
+OpeningCr	number	0	
+OpeningNetDr	number	450	
+OpeningNetCr	number	0	
+OpeningAdvanceReceive	number	0	
+OpeningBalanceLedger	number	0	
+OpeningNetBal	number	450	
+DueAmt	number	13660	
+LineAmount	number	14110	
+LineDiscount	number	1505	
+LineNetAmount	number	12605	
+AdvanceBF	number	0	
+AdjustmentAmount	number	0	
+DiscountAmount	number	0	
+TotalAdvanceAdjusted	number	0	
+TotalFeeReceiveAdjusted	number	0	
+TotalNetAmount	number	12605	
+TotalFeeRecvCrAmt	number	14110	
+RefundAmt	number	0	
+AdvanceAmt	number	0	
+CurrentDr	number	0	
+CurrentCr	number	450	
+CurrentNetDr	number	0	
+CurrentNetCr	number	450	
+CurrentAdvanceReceive	number	0	
+CurrentBalanceLedger	number	0	
+CurrentNetBal	number	-450	
+ClosingDr	number	0	
+ClosingCr	number	0	
+ClosingNetDr	number	0	
+ClosingNetCr	number	0	
+ClosingAdvanceReceive	number	0	
+ClosingBalanceLedger	number	0	
+ClosingNetBal	number	0	
+ReverseDueAmt	number	0	
+CounselingFeeAdjusted	number	0	
+ScholarShipAmount	number	0	
+OpeningLedgerDr	number	0	
+OpeningLedgerCr	number	0	
+CurrentLedgerDr	number	0	
+CurrentLedgerCr	number	0	
+OpeningFeeReceiveAmt	number	12010	
+CurrentFeeReceiveAmt	number	12605	
+OpeningReverseDueAmt	number	0	
+CurrentReverseDueAmt	number	0	
+Fee	string	255	A100000016	
+FeeHead	string	255	Admission Fee {F0001}	
+OpeningDueAmt	number	0	
+OpeningReceiveAmt	number	0	
+OpeningDiscount	number	0	
+OpeningRefundAmt	number	0	
+OpeningBalance	number	0	
+CurrentDueAmt	number	0	
+CurrentReceiveAmt	number	0	
+CurrentDiscount	number	0	
+CurrentRefundAmt	number	0	
+CurrentBalance	number	0	
+TillDateDueAmt	number	0	
+TillDateReceiveAmt	number	0	
+TillDateDiscount	number	0	
+TillDateRefundAmt	number	0	
+TillDateBalance	number	0	
+StreamYearSemesterDesc	string	255	FIFTH-A	
+SessionProgrammeStreamYearDesc	string	255		
+SessionProgrammeDesc	string	255		
+SessionProgrammeStreamDesc	string	255		
+SessionManualCode	string	255		
+ProgrammeManualCode	string	255		
+StreamManualCode	string	255		
+SemesterSerialNo	string	255		
+YearSerial	string	255		
+CategoryManualCode	string	255	GEN	
+Site_Name	string	255	A.P.S. Public School	

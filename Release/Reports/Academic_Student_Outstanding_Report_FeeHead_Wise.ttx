@@ -1,0 +1,43 @@
+; Field definition file for table: ADORecordset
+StreamYearSemesterDesc	string	255	NURSERY-A	
+Category	string	255	OBC	
+TotalAmount	number	100	
+ReceivedAmt	number	0	
+Discount	number	0	
+AdmissionId	string	255	1-1	
+V_Date	datetime	01/Jan/2014 12:00:00 AM	
+BalAmt	number	100	
+StudenName	string	255	IFRA NAWAZ  {635}	
+Stream	string	255		
+Programme	string	255		
+Session	string	255		
+Fees	string	255	AF	
+StudentDisplayName	string	255	IFRA NAWAZ 	
+AdmissionID1	string	255	1-1	
+Student_Name	string	255	IFRA NAWAZ  {635}	
+FatherName	string	255	SARFARAZ NAWAZ	
+Add1	string	255	ROTAHA CHAURI BHADOHI	
+Add2	string	255		
+CityName	string	255	BHADOHI	
+EnrollmentNo	string	255	1	
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Class-Section : NURSERY-A 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255		
+ForProgramme	string	255		
+ForSession	string	255		
+ForSTUDENT	string	255	 For Admission ID : All 	
+FromDate	string	255	01/Apr/2014	
+Todate	string	255	29/Jul/2015	
+OpeningDueAmount	number	100	
+CurrentDueAmount	number	0	
+OpeningNetReceiveAmount	number	0	
+CurrentNetReceiveAmount	number	0	
+OpeningDiscount	number	0	
+CurrentDiscount	number	0	
+OpeningNetBalance	number	100	
+CurrentNetBalance	number	0	
+TillDate_NetRefundAmount	number	0	
+OpeningNetRefundAmount	number	0	
+CurrentNetRefundAmount	number	0	
+SiteLogo	BLOB		

@@ -1,0 +1,92 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1    FR 2014    1972	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Date	datetime	10/Dec/2014 12:00:00 AM	
+V_Type	string	255	FR	
+V_Prefix	string	255	2014	
+V_No	string	255	1972/2014/FR/1/A	
+TotalLineAmount	number	3815	
+TotalLineDiscount	number	0	
+TotalLineNetAmount	number	3815	
+Advance	number	0	
+SubTotal1	number	3815	
+RegAdjustmentAmt	number	0	
+SubTotal2	number	3815	
+DiscountPer	number	0	
+DiscountAmount	number	0	
+TotalNetAmount	number	3815	
+Remark	string	255		
+ReceiveAmount	number	3815	
+AdvanceCarriedForward	number	0	
+AdmissionDocId	string	255	A1 ADMSN 2013     356	
+TotalAdvanceAdjusted	number	0	
+IsAdjustableReceipt	boolean	False	
+TotalFeeReceiveAdjusted	number	0	
+FeeAdjustmentAc	string	255	A100000002	
+FeeReceiptAdjustmentAc	string	255		
+ScholarShipAmount	number	0	
+ScholarshipAdjustmentAc	string	255		
+CounselingFeeAdjusted	number	0	
+CounselingFeeAdjustmentAc	string	255		
+Amount	number	0	
+Discount	number	0	
+NetAmount	number	0	
+CashAc	string	255	A100000013	
+CashAmount	number	3815	
+BankAc	string	255		
+BankAmount	number	0	
+Bank_Code	string	255		
+Chq_No	string	255		
+Chq_Date	datetime		
+CardAc	string	255		
+CardAmount	number	0	
+CardBank_Code	string	255		
+Card_No	string	255		
+AcTransferBankAc	string	255		
+AcTransferAmount	number	0	
+AcTransferBank_Code	string	255		
+TotalAmount	number	3815	
+AcTransferAcNo	string	255		
+PartyDrCr	string	255	Cr	
+BankAc2	string	255		
+BankAmount2	number	0	
+Bank_Code2	string	255		
+Chq_No2	string	255		
+Chq_Date2	datetime		
+BankAc3	string	255		
+BankAmount3	number	0	
+Bank_Code3	string	255		
+Chq_No3	string	255		
+Chq_Date3	datetime		
+AdjustmentAc	string	255		
+AdjustmentAmount	number	0	
+AdjustmentRemark	string	255		
+Site_Name	string	255	A.P.S. Public School	
+Site_Code1	string	255	1	
+StudentName	string	255	ANSHU MAURYA {435}	
+fee	string	255	Late Fees {LF}	
+CasAC	string	255	Cash A/c {Rma_Cash}	
+BankAC1	string	255		
+BankAC21	string	255		
+BankAC31	string	255		
+Bank1	string	255		
+Bank2	string	255		
+Bank3	string	255		
+Adjustment	string	255		
+CardAC1	string	255		
+CardBank	string	255		
+ACTransferAC	string	255		
+ACTransferBank	string	255		
+ReportType	string	255	Yes	
+CurrentSemesterCode	string	255	A100000013	
+CurrentSemesterDesc	string	255	FIFTH-A	
+SessionManualCode	string	255		
+SessionProgrammeDesc	string	255		
+StreamManualCode	string	255		
+ProgrammeManualCode	string	255		
+StudentDispName	string	255	ANSHU MAURYA	
+StudentManualCode	string	255	435	
+Category	string	255	A1000003	
+CategoryManualCode	string	255	OBC	
+DueMonth	string	255	Oct 2014	

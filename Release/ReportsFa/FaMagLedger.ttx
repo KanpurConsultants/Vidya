@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+Sub	string	10		
+Date	string	12	05/09/12	
+DocNo	string	29	A1/FD/1	
+VType	string	10	FD	
+VNo	string	12	1	
+ACName	string	123	To Admission Fee {AF}	
+BalChild	string	17		
+Debit	string	14	1550.00	
+Credit	string	14		
+Balance	string	17	1550.00 Dr	
+CODE	string	10		
+SUBCODE	string	10	A100000003	
+DocId	string	29	A1    FD 2012       1	
+ACName1	string	123	NA KUMAR {1}, Motihari	
+PDate	date	05/Sep/2012 12:00:00 AM	
+Val	number	1	

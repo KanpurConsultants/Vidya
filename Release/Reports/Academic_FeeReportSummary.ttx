@@ -1,0 +1,59 @@
+; Field definition file for table: ADORecordset
+AdmissionId	string	255	1-1	
+StudentName	string	255	IFRA NAWAZ ANSARI {635}	
+Site_Code	string	255	1	
+AdmissionDocId	string	255	A1 ADMSN 2012       1	
+OpeningDr	number	0	
+OpeningCr	number	0	
+OpeningNetDr	number	0	
+OpeningNetCr	number	0	
+OpeningAdvanceReceive	number	0	
+OpeningBalanceLedger	number	0	
+OpeningNetBal	number	0	
+DueAmt	number	0	
+LineAmount	number	0	
+LineDiscount	number	0	
+LineNetAmount	number	0	
+AdvanceBF	number	0	
+AdjustmentAmount	number	0	
+DiscountAmount	number	0	
+TotalAdvanceAdjusted	number	0	
+TotalFeeReceiveAdjusted	number	0	
+TotalNetAmount	number	0	
+TotalFeeRecvCrAmt	number	0	
+RefundAmt	number	0	
+AdvanceAmt	number	0	
+CurrentDr	number	0	
+CurrentCr	number	0	
+CurrentNetDr	number	0	
+CurrentNetCr	number	0	
+CurrentAdvanceReceive	number	0	
+CurrentBalanceLedger	number	0	
+CurrentNetBal	number	0	
+ClosingDr	number	0	
+ClosingCr	number	0	
+ClosingNetDr	number	0	
+ClosingNetCr	number	0	
+ClosingAdvanceReceive	number	0	
+ClosingBalanceLedger	number	0	
+ClosingNetBal	number	0	
+ReverseDueAmt	number	0	
+CounselingFeeAdjusted	number	0	
+ScholarShipAmount	number	0	
+OpeningLedgerDr	number	0	
+OpeningLedgerCr	number	0	
+CurrentLedgerDr	number	0	
+CurrentLedgerCr	number	0	
+OpeningFeeReceiveAmt	number	2760	
+CurrentFeeReceiveAmt	number	0	
+StreamYearSemesterDesc	string	255	NURSERY-A	
+SessionProgrammeStreamYearDesc	string	255		
+SessionProgrammeDesc	string	255		
+SessionProgrammeStreamDesc	string	255		
+SessionManualCode	string	255		
+ProgrammeManualCode	string	255		
+StreamManualCode	string	255		
+SemesterSerialNo	string	255		
+YearSerial	string	255		
+CategoryManualCode	string	255	OBC	
+Site_Name	string	255	A.P.S. Public School	

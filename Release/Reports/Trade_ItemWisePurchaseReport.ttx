@@ -1,0 +1,35 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1  PINV 2012       1	
+Sr	number	1	
+PurchOrder	string	255		
+PurchChallan	string	255	A1  PINV 2012       1	
+PurchChallanSr	number	1	
+BaleNo	string	255		
+Item	string	255	A10001	
+ItemManualCode	string	255	1	
+SalesTaxGroupItem	string	255	General	
+DocQty	number	12	
+Qty	number	12	
+Unit	string	255	PCS	
+MeasurePerPcs	number	23	
+MeasureUnit	string	255	PCS	
+TotalDocMeasure	number	12	
+TotalMeasure	number	12	
+Rate	number	12	
+Amount	number	144	
+ReferenceDocId	string	255		
+LotNo	string	255		
+UID	string	255		
+Specification	string	255		
+Gross_Amount	number	144	
+Discount_Per	number	0	
+Discount	number	0	
+Other_Charges_Per	number	0	
+Other_Charges	number	0	
+Round_Off	number	0	
+Net_Amount	number	144	
+ItemDesc	string	255	Item 1	
+V_Date	date	04/Dec/2012 12:00:00 AM	
+ReferenceNo	string	255	1	
+VendorName	string	255	Ajay Pratap Singh	
+Remark	string	255		

@@ -1,0 +1,25 @@
+; Field definition file for table: ADORecordset
+AdmissionDocId	string	255	A1 ADMSN 2012       2	
+AdmissionID	string	255	1-2	
+StudentCode	string	255	A100000017	
+StudentDispName	string	255	Anil Sinha	
+LeavingDate	date		
+LeavingReason	string	255		
+J_Date	date	01/Apr/2012 12:00:00 AM	
+RollNo	string	255	2	
+FatherName	string	255	Kamal Sinha	
+ProgrammeManualCode	string	255		
+Conduct	string	255		
+StreamManualCode	string	255		
+SessionProgrammeStreamDesc	string	255	Ninth	
+SessionManualCode	string	255		
+Add1	string	255		
+Add2	string	255		
+Add3	string	255		
+CityName	string	255		
+dob	date	13/Dec/1988 12:00:00 AM	
+SitePhoto	BLOB		
+IssuedDate	string	255	04/Dec/2012	
+YearString	number	-1	
+v_no	long	2	
+Class	string	255	Ninth	

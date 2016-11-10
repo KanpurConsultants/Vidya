@@ -1,0 +1,31 @@
+; Field definition file for table: ADORecordset
+SubCode	string	255	A100000036	
+Student	string	255	A100000036	
+Employee	string	255		
+MemberCardNo	string	255	2013-50	
+CardPrefix	string	255	2013	
+CardSrNo	long	50	
+ValidTillDate	date	05/Apr/2013 12:00:00 AM	
+Vehicle	string	255		
+SeatNo	string	255		
+Route	string	255	A1000003	
+PickUpPoint	string	255	A1000055	
+ReminderRemark	string	255		
+InActiveDate	date		
+Add1	string	255	MAI  BHADOHI	
+Add2	string	255		
+Add3	string	255		
+FatherName	string	255	SURENDRA SINGH	
+MotherName	string	255	priti singh	
+Phone	string	255		
+Mobile	string	255	9598753308	
+SiteName	string	255	A.P.S. Public School	
+FAX	string	255		
+EMail	string	255		
+Routename	string	255	bhanpur-sureri	
+Pickuppoint1	string	255	mai hardopatti	
+VehicleName	string	255		
+SiteCode	string	255	1	
+MemberCode	string	255	19	
+City	string	255	BHADOHI	
+MemberName	string	255	RAJ NARAYAN SINGH	

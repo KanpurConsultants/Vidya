@@ -1,0 +1,203 @@
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Release\Scholar_Fee.exe
+E:\Rati\Scholar\Release\Scholar_Fee.pdb
+E:\Rati\Scholar\Release\Scholar_Fee.xml
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Rati\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Fee.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Fee.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Fee.dll
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Fee\obj\Debug\Scholar_Fee.dll
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Rati\Academic Lite\Release\Scholar_Fee.exe
+E:\Rati\Academic Lite\Release\Scholar_Fee.pdb
+E:\Rati\Academic Lite\Release\Scholar_Fee.xml
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Rati\Academic Lite\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+\\server2008\Active Project\Vidya\Release\Scholar_Fee.pdb
+\\server2008\Active Project\Vidya\Release\Scholar_Fee.xml
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+\\server2008\Active Project\Vidya\Release\Scholar_Fee.exe
+\\server2008\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+E:\Arpit\Active Project\Vidya\Release\Scholar_Fee.exe
+E:\Arpit\Active Project\Vidya\Release\Scholar_Fee.pdb
+E:\Arpit\Active Project\Vidya\Release\Scholar_Fee.xml
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Arpit\Active Project\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Fee.exe
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Fee.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Fee.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.exe
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.xml
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.pdb
+E:\Arpit\Vidya\Release\Scholar_Fee.exe
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\ResolveAssemblyReference.cache
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmLateFeeParameter.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeRefundEntry.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvance.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmAdvanceReminder.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFee.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeDueEntry.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeGroup.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmFeeReceiveEntry.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentReminder.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmInstallmentCreate.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmReverseFeeDue.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipAdjustHeadWise.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipDemand.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipHeadWise.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarShipParameter.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmScholarshipReceive.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmSemesterFeeAssign.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStreamYearSemesterFee.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.FrmStudentFeeChange.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.Resources.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.MDIMain.resources
+E:\Arpit\Vidya\Project\Scholar_Fee\obj\Debug\Scholar_Fee.vbproj.GenerateResource.Cache
+E:\Arpit\Vidya\Release\Scholar_Fee.pdb
+E:\Arpit\Vidya\Release\Scholar_Fee.xml

@@ -1,0 +1,34 @@
+E:\Rati\Scholar\Release\Scholar_SmsEMail.dll.config
+E:\Rati\Scholar\Release\Scholar_SmsEMail.dll
+E:\Rati\Scholar\Release\Scholar_SmsEMail.pdb
+E:\Rati\Scholar\Release\Scholar_SmsEMail.xml
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmEnquiryCommonSms.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmCommonSmsEmployee.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmCommonSmsStudent.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmEMailEnviro.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmStudentDueSms.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.TempCommonSmsStudent.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmSmsEnviro.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmSmsEvent.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.Resources.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.dll
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.xml
+E:\Rati\Scholar\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.pdb
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmEnquiryCommonSms.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmCommonSmsEmployee.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmCommonSmsStudent.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmEMailEnviro.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmStudentDueSms.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.TempCommonSmsStudent.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmSmsEnviro.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.FrmSmsEvent.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.Resources.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.vbproj.GenerateResource.Cache
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.dll
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.xml
+\\server2008\Active Project\Vidya\Project\Scholar_SmsEMail\obj\Release\Scholar_SmsEMail.pdb

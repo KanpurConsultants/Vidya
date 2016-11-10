@@ -1,0 +1,27 @@
+; Field definition file for table: ADORecordset
+Site_Name	string	255	A.P.S. Public School	
+StreamYearSemesterDesc	string	255	SIXTH-A	
+Category	string	255	GEN	
+NetReceiveAmount	number	150	
+Discount	number	0	
+AdmissionId	string	255	1-479	
+V_Date	datetime	02/Apr/2014 12:00:00 AM	
+StudenName	string	255	SAURABH MISHRA {511}	
+Stream	string	255		
+Programme	string	255		
+Session	string	255		
+Fees	string	255	EXAMINATION	
+Vno	long	19	
+ReceiveAmount	number	150	
+Receipt_VNo	string	255	19/2014/FR/1/A	
+V_Type	string	255	FR	
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Class-Section : All 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255		
+ForProgramme	string	255		
+ForSession	string	255		
+ForSTUDENT	string	255	 For Admission ID : All 	
+FromDate	string	255	01/Apr/2014	
+Todate	string	255	29/Jul/2015	
+DueMonth	string	255	Jan 2014	

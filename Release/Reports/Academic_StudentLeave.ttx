@@ -1,0 +1,41 @@
+; Field definition file for table: ADORecordset
+LeaveCode	string	255	A100000001	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+Site_Name	string	255	Kanpur Consultants	
+V_Date	date	01/Dec/2012 12:00:00 AM	
+AdmissionDocId	string	255	A1 ADMSN 2012       1	
+FromDate	date	01/Dec/2012 12:00:00 AM	
+ToDate	date	01/Dec/2012 12:00:00 AM	
+TotalDays	number	1	
+PurposeOfLeave	string	255	No	
+LeavePassedByCode	string	255	A100000015	
+LeaveApprovedByCode	string	255	A100000015	
+Remark	string	255		
+PreparedBy	string	255	SUPER	
+U_EntDt	date	04/Dec/2012 12:00:00 AM	
+U_AE	string	255	A	
+Edit_Date	date		
+ModifiedBy	string	255		
+AdmissionID	string	255	1-1	
+StudentName	string	255	Ajay Pratap Singh {S0001}	
+StudentDispName	string	255	Ajay Pratap Singh	
+FatherName	string	255	Vijay Pratap Singh	
+MotherName	string	255	Sweet	
+SessionProgrammeStreamDesc	string	255		
+SessionManualCode	string	255		
+ProgrammeManualCode	string	255		
+Add1	string	255		
+add2	string	255		
+Add3	string	255		
+CityName	string	255		
+PIN	string	255	0	
+Phone	string	255		
+Mobile	string	255		
+FAX	string	255		
+EMail	string	255		
+Sex	string	255	Male	
+LeavePassedByName	string	255	a a a {a}	
+LeaveApprovedByName	string	255	a a a {a}	
+PrintedBy	string	255	sa	
+ClassSection	string	255	Tenth-A	

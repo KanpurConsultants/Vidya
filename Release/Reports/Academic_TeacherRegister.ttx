@@ -1,0 +1,70 @@
+; Field definition file for table: ADORecordset
+SubCode	string	255		
+Subject	string	255		
+Sub_Desc	string	255		
+DateOfJoin	date		
+Sex	string	255	Female	
+BloodGroup	string	255		
+Religion	string	255		
+Category	string	255		
+Category_Desc	string	255		
+Site_Code	string	255	1	
+Name	string	255	a a a	
+DispName	string	255	a a a {a}	
+Add1	string	255		
+Add2	string	255		
+Add3	string	255		
+CityCode	string	255		
+CityName	string	255		
+Phone	string	255		
+Mobile	string	255		
+EMail	string	255		
+DOB	date		
+FatherName	string	255		
+Site_Name	string	255	Kanpur Consultants	
+Subject_Name	string	255		
+SubjectType	string	255		
+Subject_Code	string	255		
+DateOfJoin1	date		
+DateOfResign	date		
+ResignRemark	string	255		
+MotherName	string	255	a	
+Shift	string	255		
+AppointmentType	string	255		
+SalaryMode	string	255		
+PayScale	string	255		
+Programme	string	255		
+WorkExperience	number	0	
+TeachingExperience	number	0	
+ResearchExperience	number	0	
+IndustryExperience	number	0	
+BankAcNo	string	255		
+BankName	string	255		
+BankBranch	string	255		
+IfscCode	string	255		
+TotalBooksPublished	number	0	
+IsCommonSubjectTeacher	boolean	False	
+IsCommonSubjectBeingTaught	boolean	False	
+Stream	string	255		
+ProgrammeNature	string	255		
+TotalPapersPublishedInNationalJournals	number	0	
+TotalPapersPublishedInInternationalJournals	number	0	
+TotalInternationalConferencesAttended	number	0	
+TotalNationalConferencesAttended	number	0	
+TotalPapersInNationalConference	number	0	
+TotalPapersInInternationalConference	number	0	
+TotalShortTermCoursesAttended	number	0	
+TotalWorkshopsAttended	number	0	
+TotalSeminarsAttended	number	0	
+CommonSubject	string	255		
+state_desc	string	255		
+EMail1	string	255		
+PAN	string	255		
+FAX	string	255		
+Designation	string	255		
+StramDesc	string	255		
+PIN	string	255		
+Programm_Desc	string	255		
+TotalPGProjectsGuided	number	0	
+TotalDoctorateProjectsGuided	number	0	
+title	string	255	a	

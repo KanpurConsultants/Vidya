@@ -1,0 +1,27 @@
+; Field definition file for table: ADORecordset
+Site_Name	string	255	Kanpur Consultants	
+StreamYearSemesterDesc	string	255	Tenth-A	
+Category	string	255	GEN	
+NetReceiveAmount	number	5000	
+Discount	number	0	
+AdmissionId	string	255	1-1	
+V_Date	date	01/Dec/2012 12:00:00 AM	
+StudenName	string	255	Ajay Pratap Singh {S0001}	
+Stream	string	255		
+Programme	string	255		
+Session	string	255		
+Fees	string	255	Admission Fee	
+Vno	long	1	
+ReceiveAmount	number	5000	
+Receipt_VNo	string	255	1/2012/FR/1/A	
+V_Type	string	255	FR	
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Class-Section : All 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255		
+ForProgramme	string	255		
+ForSession	string	255		
+ForSTUDENT	string	255	 For Admission ID : All 	
+FromDate	string	255	01/Apr/2012	
+Todate	string	255	05/Dec/2012	
+DueMonth	string	255	Nov 2012	

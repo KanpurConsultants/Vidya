@@ -1,0 +1,222 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Scholar_Main.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Rati\Academic\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Rati\Academic\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Rati\Scholar\Release\Scholar_Main.dll
+E:\Rati\Scholar\Release\Scholar_Main.pdb
+E:\Rati\Scholar\Release\Scholar_Main.xml
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.dll
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Rati\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Main.exe
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Main\obj\Release\Scholar_Main.exe
+E:\Rati\Academic Lite\Release\Scholar_Main.dll
+E:\Rati\Academic Lite\Release\Scholar_Main.pdb
+E:\Rati\Academic Lite\Release\Scholar_Main.xml
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.dll
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Rati\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Academic Lite\Release\Scholar_Main.dll
+E:\Ashish Gupta\Active Projects\Academic Lite\Release\Scholar_Main.pdb
+E:\Ashish Gupta\Active Projects\Academic Lite\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.dll
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Ashish Gupta\Active Projects\Academic Lite\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+\\server2008\Active Project\Vidya\Release\Scholar_Main.pdb
+\\server2008\Active Project\Vidya\Release\Scholar_Main.xml
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+\\server2008\Active Project\Vidya\Release\Scholar_Main.exe
+\\server2008\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.exe
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.exe
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Arpit\Active Project\Vidya\Release\Scholar_Main.exe
+E:\Arpit\Active Project\Vidya\Release\Scholar_Main.pdb
+E:\Arpit\Active Project\Vidya\Release\Scholar_Main.xml
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Arpit\Active Project\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.exe
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Main.exe
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Main.pdb
+E:\Arpit\Active Project\KC\Vidya\Release\Scholar_Main.xml
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\ResolveAssemblyReference.cache
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmAdmissionEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmDocumentIssue.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnrollmentNoAssign.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmImportFromExcel.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationCancelEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRegistrationEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmRollNoAssign.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStreamYearSemesterSubject.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentAttendance.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentFamilyIncome.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeave.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentLeft.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentMaster.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmStudentPromotion.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmSubjectMarks.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTeacher.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmTransportInfo.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xFrmAdmissionEntry.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.FrmEnviro.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.Resources.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.MDIMain.resources
+E:\Arpit\Active Project\KC\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.vbproj.GenerateResource.Cache
+E:\Arpit\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.exe
+E:\Arpit\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.xml
+E:\Arpit\Vidya\Project\Scholar_Main\obj\Release\Scholar_Main.pdb

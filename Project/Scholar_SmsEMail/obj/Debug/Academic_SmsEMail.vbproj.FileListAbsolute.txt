@@ -1,0 +1,41 @@
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_SmsEMail.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_SmsEMail.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmSmsEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmSmsEvent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.Resources.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.xml
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.pdb
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmEMailEnviro.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmCommonSmsEmployee.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.TempCommonSmsStudent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmCommonSmsStudent.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmStudentDueSms.resources
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_SmsEMail.dll.config
+E:\Ashish Gupta\Active Projects\Academic\Academic\Release\Academic_SmsEMail.dll
+E:\Ashish Gupta\Active Projects\Academic\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.dll
+D:\Rati\Academic\Release\Academic_SmsEMail.exe.config
+D:\Rati\Academic\Release\Academic_SmsEMail.exe
+D:\Rati\Academic\Release\Academic_SmsEMail.pdb
+D:\Rati\Academic\Release\Academic_SmsEMail.xml
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\ResolveAssemblyReference.cache
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmCommonSmsEmployee.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmCommonSmsStudent.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmEMailEnviro.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmStudentDueSms.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.TempCommonSmsStudent.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmSmsEnviro.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmSmsEvent.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.Resources.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.MDIMain.resources
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.vbproj.GenerateResource.Cache
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.exe
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.xml
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.pdb
+D:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.FrmEnquiryCommonSms.resources
+E:\Rati\Academic\Release\Academic_SmsEMail.exe.config
+E:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.exe
+E:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.xml
+E:\Rati\Academic\Project\Academic_SmsEMail\obj\Debug\Academic_SmsEMail.pdb

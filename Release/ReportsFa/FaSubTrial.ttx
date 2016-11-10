@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+GRCODE	string	10		
+SUBCODE	string	10	A100000155	
+ACName	string	123	PRAKHYAT PANDEY {1128731044}, UNNAO	
+BalChild	string	17		
+QtyBal	string	12		
+Debit	string	14	11510.00	
+Credit	string	14		
+GroupHead	string	1		
+MainGrCode	string	255	060004	

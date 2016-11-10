@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1    FD 2012       7	
+V_No	string	255	7/2012/FD/1/A	
+Site_Code	string	255	1	
+SiteName	string	255	CHAURI BAZAR	
+V_Date	date	01/Jul/2012 12:00:00 AM	
+TotalAmount	number	5400	
+Remark	string	255		
+StreamYearSemester	string	255	A100000005	
+StreamYearSemesterDesc	string	255	NURSERY-A	
+DueMonth	string	255	Jul	
+FeeCode	string	255	A100000019	
+Fee	string	255	Tution Fee {F0002}	
+DueAmount	number	1200	
+AdmissionDocId	string	255	A1 ADMSN 2012       3	
+StudentName	string	255	ABHAY RAJ JAISHWAR {116}	
+PreparedBy	string	255	sa	

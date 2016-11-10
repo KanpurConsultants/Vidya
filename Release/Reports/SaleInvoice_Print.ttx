@@ -1,0 +1,79 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1    SI 2013      27	
+V_Type	string	255	SI	
+V_Prefix	string	255	2013	
+V_Date	date	01/Apr/2013 12:00:00 AM	
+V_No	long	27	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+ReferenceNo	string	255	27	
+SaleToParty	string	255	A100000447	
+SaleToPartyMobile	string	255		
+Currency	string	255		
+SalesTaxGroupParty	string	255	Local	
+Structure	string	255	EBill	
+BillingType	string	255		
+Form	string	255		
+FormNo	string	255		
+ReferenceDocId	string	255		
+Remarks	string	255		
+TotalQty	number	1	
+TotalMeasure	number	0	
+TotalAmount	number	2010	
+EntryBy	string	255	sa	
+EntryDate	date	01/Apr/2013 1:40:00 PM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+Godown	string	255		
+Vendor	string	255		
+SaleToPartyTinNo	string	255		
+SaleToPartyCstNo	string	255		
+Transporter	string	255		
+Vehicle	string	255		
+VehicleDescription	string	255		
+Driver	string	255		
+DriverName	string	255		
+DriverContactNo	string	255		
+LrNo	string	255		
+LrDate	date		
+CreditDays	number	0	
+DocId1	string	255	A1    SI 2013      27	
+Sr	number	1	
+SaleOrder	string	255		
+SaleOrderSr	number	0	
+SaleChallan	string	255	A1    SI 2013      27	
+SaleChallanSr	number	1	
+Item	string	255	A10087	
+Specification	string	255		
+SalesTaxGroupItem	string	255	General	
+Qty	number	1	
+Unit	string	255	PCS	
+MeasurePerPcs	number	0	
+MeasureUnit	string	255	PCS	
+TotalMeasure1	number	0	
+Rate	number	2010	
+Amount	number	2010	
+ReferenceDocId1	string	255		
+LotNo	string	255		
+UID	string	255		
+BaleNo	string	255		
+SaleToPartyName	string	255	MO. VAKKASH 	
+Add1	string	255	CHAURI	
+Add2	string	255		
+Add3	string	255		
+SaleToPartyCity	string	255	BHADOHI	
+GodownDesc	string	255		
+ItemDesc	string	255	4TH BOOKS SET	
+Logo	BLOB		
+H_Gross_Amount	number	2010	
+H_Freight_Per	number	0	
+H_Freight	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	0	
+H_Net_Amount	number	2010	
+H_Landed_Value	number	2010	

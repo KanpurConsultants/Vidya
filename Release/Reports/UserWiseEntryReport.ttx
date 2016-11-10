@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+U_Name	string	255	sa	
+EntryPoint	string	255	Admission Entry	
+Add	number	2	
+Edit	number	0	
+Delete	number	0	
+Print	number	0	
+Email	number	0	
+Sms	number	0	
+Fax	number	0	
+SelGrid1	string	255	 For User : All 	
+SelGrid2	string	255	 For Module : All 	

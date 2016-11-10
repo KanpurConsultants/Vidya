@@ -1,0 +1,96 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1    FR 2013     547	
+DocID_Print	string	255	547/2013/FR/1/A	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Date	date	13/Aug/2013 12:00:00 AM	
+V_Type	string	255	FR	
+V_Prefix	string	255	2013	
+V_No	long	547	
+TotalLineAmount	number	0	
+TotalLineDiscount	number	0	
+TotalLineNetAmount	number	0	
+Advance	number	0	
+SubTotal1	number	0	
+AdjustmentAmount	number	0	
+SubTotal2	number	0	
+DiscountPer	number	0	
+DiscountAmount	number	0	
+TotalNetAmount	number	0	
+Remark	string	255		
+PreparedBy	string	255	sa	
+U_EntDt	date	13/Aug/2013 12:00:00 AM	
+U_AE	string	255	A	
+Edit_Date	date		
+ModifiedBy	string	255		
+RowId	long	2863	
+UpLoadDate	date		
+IsManageFee	boolean	False	
+ReceiveAmount	number	1000	
+AdvanceCarriedForward	number	1000	
+AdmissionDocId	string	255	A1 ADMSN 2013     558	
+Line_Code	string	255		
+Line_FeeDue	string	255		
+Line_Amount	number		
+Line_Discount	number		
+Line_NetAmount	number		
+DocID_FeeDue	string	255		
+FeeDue_V_Date	date		
+Fee	string	255		
+Fee_Description	string	255		
+AmountDue	number		
+StreamYearSemesterDesc	string	255	U.K.G.-A	
+DocId1	string	255	A1 ADMSN 2013     558	
+RegistrationDocId	string	255		
+AdmissionID	string	255	1-554	
+Student_Name	string	255	SACHIN SINGH {748}	
+FatherName	string	255	JITENDRA BAHADUR 	
+Add1	string	255	GORAPAR POST- SARBAT KHANI	
+Add2	string	255		
+CityName	string	255	BHADOHI	
+EnrollmentNo	string	255		
+CashAc	string	255	A100000013	
+CashAmount	number	1000	
+BankAc	string	255		
+BankAmount	number	0	
+Bank_Code	string	255		
+Chq_No	string	255		
+Chq_Date	date		
+Clg_Date	date		
+CardAc	string	255		
+CardAmount	number	0	
+CardBank_Code	string	255		
+Card_No	string	255		
+AcTransferBankAc	string	255		
+AcTransferAmount	number	0	
+AcTransferBank_Code	string	255		
+TotalAmount	number	1000	
+AcTransferAcNo	string	255		
+PartyDrCr	string	255	Cr	
+PaymentMode	string	255	Cash	
+PaymentAmount	number	1000	
+BankAc2	string	255		
+BankAmount2	number	0	
+Bank_Code2	string	255		
+Chq_No2	string	255		
+Chq_Date2	date		
+Clg_Date2	date		
+BankAc3	string	255		
+BankAmount3	number	0	
+Bank_Code3	string	255		
+Chq_No3	string	255		
+Chq_Date3	date		
+Clg_Date3	date		
+Bank1	string	255		
+Bank2	string	255		
+Bank3	string	255		
+TotalFeeReceiveAdjusted	number	0	
+TotalAdvanceAdjusted	number	0	
+SitePhoto	BLOB		
+TransferAc	string	255		
+TransferBankName	string	255		
+ReceiptType	string	255	Detail	
+MonthStartDate	date		
+StudentDispName	string	255	SACHIN SINGH	
+StudentManualCode	string	255	748	
+Photo	BLOB		

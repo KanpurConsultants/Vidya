@@ -1,0 +1,24 @@
+; Field definition file for table: ADORecordset
+SubCode	string	255	A100000014	
+Manual Code	string	255	S0001	
+Name	string	255	Ajay Pratap Singh {S0001}	
+First Name	string	255	Ajay	
+Middle Name	string	255	Pratap	
+Last Name	string	255	Singh	
+Male/Female	string	255	Male	
+Father Name	string	255	Vijay Pratap Singh	
+Mother Name	string	255	Sweet	
+Address1	string	255		
+Address2	string	255		
+pin	string	255	0	
+CityName	string	255		
+Mobile	string	255		
+Phone	string	255		
+Dob	date		
+Email	string	255		
+BloodGroup	string	255	A-	
+Category	string	255	GENERAL	
+ForSiteCode	string	255	 For Site : All 	
+ForCity	string	255	 For City Name : All 	
+ForCatgory	string	255	 For Category Name : All 	
+photo	BLOB		

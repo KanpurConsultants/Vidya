@@ -1,0 +1,38 @@
+; Field definition file for table: ADORecordset
+V_Date	date	01/Nov/2012 12:00:00 AM	
+AdmissionID	string	255	1-1	
+LeavingDate	date		
+Status	string	255	Regular	
+EnrollmentNo	string	255		
+RollNo	string	255	1	
+StudentDispName	string	255	Ajay Pratap Singh	
+FatherName	string	255	Vijay Pratap Singh	
+MotherName	string	255	Sweet	
+CityName	string	255		
+PIN	string	255	0	
+SessionProgrammeStreamDesc	string	255		
+SessionManualCode	string	255		
+ProgrammeManualCode	string	255		
+StreamManualCode	string	255		
+Add1	string	255		
+add2	string	255		
+add3	string	255		
+Mobile	string	255		
+Phone	string	255		
+PAdd1	string	255		
+PAdd2	string	255		
+PAdd3	string	255		
+CityName1	string	255		
+DOB	date		
+CategoryManualCode	string	255	GEN	
+Religion	string	255	A1000001	
+FatherOccupationDesc	string	255		
+MotherOccupation	string	255		
+BloodGroup	string	255	A-	
+Nationaliy	string	255		
+STudent_Photo	BLOB		
+Stu_Sign	BLOB		
+Sex	string	255	Male	
+SitePhoto	BLOB		
+ManualCode	string	255	S0001	
+CurrentSemesterDesc	string	255	Tenth-A	

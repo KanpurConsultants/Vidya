@@ -1,0 +1,30 @@
+; Field definition file for table: ADORecordset
+StreamYearSemesterDesc	string	255	NURSERY-A	
+Category	string	255	OBC	
+TotalAmount	number	8410	
+ReceivedAmt	number	7710	
+Discount	number	600	
+BalAmt	number	100	
+StudentName	string	255	IFRA NAWAZ  {635}	
+AdmissionID	string	255	1-1	
+StudentDisplayName	string	255	IFRA NAWAZ 	
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Class-Section : NURSERY-A 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255		
+ForProgramme	string	255		
+ForSession	string	255		
+FromDate	string	255	01/Apr/2014	
+Todate	string	255	29/Jul/2015	
+StudentManualCode	string	255	635	
+OpeningDueAmount	number	8410	
+CurrentDueAmount	number	0	
+OpeningNetReceiveAmount	number	7710	
+CurrentNetReceiveAmount	number	0	
+OpeningDiscount	number	600	
+CurrentDiscount	number	0	
+OpeningNetBalance	number	100	
+CurrentNetBalance	number	0	
+TillDate_NetRefundAmount	number	0	
+OpeningNetRefundAmount	number	0	
+CurrentNetRefundAmount	number	0	

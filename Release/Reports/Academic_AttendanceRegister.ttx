@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+Code	string	255	A100000001	
+A_Date	date	01/Jun/2012 12:00:00 AM	
+TimeSlot	string	255		
+Subject	string	255		
+Teacher	string	255	A100000015	
+Remark	string	255		
+AdmissionDocId	string	255	A1 ADMSN 2012       2	
+IsPresent	boolean	True	
+Absent/Prasent	string	255	Present	
+teacherName	string	255	a a a {a}	
+AdmissionID	string	255	1-2	
+StudentName	string	255	Anil Sinha {S0002}	
+StudentDispName	string	255	Anil Sinha	
+RollNo	string	255	2	
+ClassSection	string	255	Tenth-A	
+Site_Name	string	255	Kanpur Consultants	

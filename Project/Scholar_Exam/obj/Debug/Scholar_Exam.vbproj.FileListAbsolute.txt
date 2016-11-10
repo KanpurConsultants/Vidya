@@ -1,0 +1,48 @@
+E:\Rati\Scholar\Release\Scholar_Exam.exe
+E:\Rati\Scholar\Release\Scholar_Exam.pdb
+E:\Rati\Scholar\Release\Scholar_Exam.xml
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmEnviro.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmExamType.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSemesterExamAdmission.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmStreamYearSemesterExam.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSubjectMarksEntry.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.Resources.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.exe
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.xml
+E:\Rati\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Exam.pdb
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Exam.xml
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\ResolveAssemblyReference.cache
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmEnviro.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmExamType.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSemesterExamAdmission.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmStreamYearSemesterExam.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSubjectMarksEntry.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.Resources.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.MDIMain.resources
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.vbproj.GenerateResource.Cache
+E:\Ashish Gupta\Active Projects\Scholar\Release\Scholar_Exam.dll
+E:\Ashish Gupta\Active Projects\Scholar\Project\Scholar_Exam\obj\Debug\Scholar_Exam.dll
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.xml
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.pdb
+E:\Rati\Academic Lite\Release\Scholar_Exam.exe
+E:\Rati\Academic Lite\Release\Scholar_Exam.pdb
+E:\Rati\Academic Lite\Release\Scholar_Exam.xml
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmEnviro.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmConsolidatedSubjectMarks.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmExamType.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSemesterExamAdmission.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmStreamYearSemesterExam.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.FrmSubjectMarksEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.Resources.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.MDIMain.resources
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.vbproj.GenerateResource.Cache
+E:\Rati\Academic Lite\Project\Scholar_Exam\obj\Debug\Scholar_Exam.exe

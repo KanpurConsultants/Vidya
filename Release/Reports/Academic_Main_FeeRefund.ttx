@@ -1,0 +1,53 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	A1  FREF 2012       1	
+DocID_Print	string	255	1/2012/FREF/1/A	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+V_Date	date	20/Dec/2012 12:00:00 AM	
+V_Type	string	255	FREF	
+V_Prefix	string	255	2012	
+V_No	long	1	
+TotalLineAmount	number	5000	
+TotalLineNetAmount	number	5000	
+Remark	string	255		
+PreparedBy	string	255	SUPER	
+U_EntDt	date	05/Dec/2012 12:00:00 AM	
+U_AE	string	255	A	
+Edit_Date	date		
+ModifiedBy	string	255		
+IsManageFee	boolean	False	
+Refundamount	number	5000	
+AdmissionDocId	string	255	A1 ADMSN 2012       1	
+Line_Code	string	255	A100000001	
+Line_Amount	number	5000	
+Line_NetAmount	number	5000	
+Fee_Description	string	255	Admission Fee	
+DocId1	string	255	A1 ADMSN 2012       1	
+RegistrationDocId	string	255	A1   REG 2012       1	
+AdmissionID	string	255	1-1	
+Student_Name	string	255	Ajay Pratap Singh {S0001}	
+FatherName	string	255	Vijay Pratap Singh	
+Add1	string	255		
+Add2	string	255		
+CityName	string	255		
+EnrollmentNo	string	255	1	
+CashAc	string	255	A100000013	
+CashAmount	number	5000	
+BankAc	string	255		
+BankAmount	number	0	
+Bank_Code	string	255		
+Chq_No	string	255		
+Chq_Date	date		
+Clg_Date	date		
+CardAc	string	255		
+CardAmount	number	0	
+CardBank_Code	string	255		
+Card_No	string	255		
+AcTransferBankAc	string	255		
+AcTransferAmount	number	0	
+AcTransferBank_Code	string	255		
+TotalAmount	number	5000	
+AcTransferAcNo	string	255		
+PartyDrCr	string	255	Dr	
+PaymentMode	string	255	Cash	
+PaymentAmount	number	5000	

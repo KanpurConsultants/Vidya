@@ -1,0 +1,48 @@
+E:\Rati\Scholar\Release\Scholar_Enquiry.pdb
+E:\Rati\Scholar\Release\Scholar_Enquiry.xml
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnviro.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusSale.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmFollowupReminder.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmFollowupEntry.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnquiryEntry.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmGodown.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmImportFromExcel.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnquiryReAssignEntry.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusMaster.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmSubjectMarks.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusPurchase.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusStockAdjustment.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.Resources.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.MDIMain.resources
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.vbproj.GenerateResource.Cache
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.xml
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.pdb
+E:\Rati\Scholar\Release\Scholar_Enquiry.exe.config
+E:\Rati\Scholar\Release\Scholar_Enquiry.exe
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.exe
+E:\Rati\Scholar\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmSupplier.resources
+E:\Rati\Academic Lite\Release\Scholar_Enquiry.exe.config
+E:\Rati\Academic Lite\Release\Scholar_Enquiry.exe
+E:\Rati\Academic Lite\Release\Scholar_Enquiry.pdb
+E:\Rati\Academic Lite\Release\Scholar_Enquiry.xml
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\ResolveAssemblyReference.cache
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnviro.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusSale.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmFollowupReminder.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmFollowupEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnquiryEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmGodown.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmImportFromExcel.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmEnquiryReAssignEntry.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusMaster.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmSubjectMarks.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusPurchase.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmProspectusStockAdjustment.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.FrmSupplier.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.Resources.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.MDIMain.resources
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.vbproj.GenerateResource.Cache
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.exe
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.xml
+E:\Rati\Academic Lite\Project\Scholar_Enquiry\obj\Debug\Scholar_Enquiry.pdb

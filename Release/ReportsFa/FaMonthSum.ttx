@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+SUBCODE	string	10	A100000003	
+YEAR	string	5	2012	
+Month	string	30	September2012	
+Debit	string	14	1550.00	
+Credit	string	14	1200.00	
+Balance	string	17	350.00 Dr	
+ACName	string	123	NA KUMAR {1}, Motihari	
+MonthNo	number		
+Date1	date	01/Sep/2012 12:00:00 AM	
+Date2	date	06/Sep/2012 12:00:00 AM	

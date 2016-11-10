@@ -1,0 +1,43 @@
+; Field definition file for table: ADORecordset
+StreamYearSemesterDesc	string	255	L.K.G.-A	
+Category	string	255	OBC	
+TotalAmount	number	100	
+ReceivedAmt	number	0	
+Discount	number	0	
+AdmissionId	string	255	1-151	
+V_Date	date	18/Jul/2013 12:00:00 AM	
+BalAmt	number	100	
+StudenName	string	255	ARHAM ANSARI {4}	
+Stream	string	255		
+Programme	string	255		
+Session	string	255		
+Fees	string	255	Late Fees	
+StudentDisplayName	string	255	ARHAM ANSARI	
+AdmissionID1	string	255	1-151	
+Student_Name	string	255	ARHAM ANSARI {4}	
+FatherName	string	255	ATHAR ANSARI	
+Add1	string	255	ROTAHA PARSIPUR	
+Add2	string	255		
+CityName	string	255	BHADOHI	
+EnrollmentNo	string	255		
+ForSiteCode	string	255	 For Site : All 	
+ForSemester	string	255	 For Class-Section : L.K.G.-A 	
+ForCatgory	string	255	 For Category Name : All 	
+ForStream	string	255		
+ForProgramme	string	255		
+ForSession	string	255		
+ForSTUDENT	string	255	 For Admission ID : All 	
+FromDate	string	255	01/Apr/2013	
+Todate	string	255	24/Oct/2013	
+OpeningDueAmount	number	0	
+CurrentDueAmount	number	100	
+OpeningNetReceiveAmount	number	0	
+CurrentNetReceiveAmount	number	0	
+OpeningDiscount	number	0	
+CurrentDiscount	number	0	
+OpeningNetBalance	number	0	
+CurrentNetBalance	number	100	
+TillDate_NetRefundAmount	number	0	
+OpeningNetRefundAmount	number	0	
+CurrentNetRefundAmount	number	0	
+SiteLogo	BLOB		

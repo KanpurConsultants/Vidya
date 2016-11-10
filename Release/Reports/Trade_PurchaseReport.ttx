@@ -1,0 +1,48 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	A1  PINV 2012       1	
+V_Type	string	255	PINV	
+V_Prefix	string	255	2012	
+V_Date	date	04/Dec/2012 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	A	
+Site_Code	string	255	1	
+ReferenceNo	string	255	1	
+Vendor	string	255	A100000014	
+VendorName	string	255	Ajay Pratap Singh	
+Add1	string	255		
+Add2	string	255		
+Add3	string	255		
+VendorCityName	string	255		
+PurchOrder	string	255		
+PurchChallan	string	255		
+Currency	string	255		
+SalesTaxGroupParty	string	255		
+Structure	string	255	Purch	
+BillingType	string	255		
+Form	string	255		
+FormNo	string	255		
+ReferenceDocId	string	255		
+Remarks	string	255		
+TotalQty	number	12	
+TotalMeasure	number	12	
+TotalAmount	number	144	
+EntryBy	string	255	SUPER	
+EntryDate	date	04/Dec/2012 10:29:00 PM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+Godown	string	255		
+Vendor1	string	255	A100000014	
+Gross_Amount	number	144	
+Discount_Per	number	0	
+DIscount	number	0	
+Other_Charges_Per	number	0	
+Other_Charges	number	0	
+Round_Off	number	0	
+Net_Amount	number	144	

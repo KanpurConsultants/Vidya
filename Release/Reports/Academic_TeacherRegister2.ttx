@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+subcode	string	255	A100000015	
+Designation	string	255		
+StramDesc	string	255		
+Programm_Desc	string	255		

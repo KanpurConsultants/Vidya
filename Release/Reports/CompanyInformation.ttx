@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+CompanyName	string	255	A.P.S.Public School	
+Add1	string	255	NEAR OLD POLICECHAUKI CHAURI BAZAR 	
+Add2	string	255	SRN BHADOHI	
+Add3	string	255		
+City	string	255	BHADOHI	
+Phone	string	255	05414-270180	
+Fax	string	255	-	
+Pin	string	255	221401	
+Email	string	255	anuragbaraps@gmail.com	
+CSTNo	string	255	-	
+TIN	string	255	-	
